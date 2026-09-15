@@ -14,11 +14,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/menneni-yamini-rao-742153326">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:menneniyaminirao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -59,27 +59,23 @@ const yamini = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/⚛️%20REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🟨%20JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🌊%20TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🅱️%20BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🎨%20CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🌐%20HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 </p>
 
@@ -91,23 +87,15 @@ const yamini = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/☕%20JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🌱%20SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🟢%20NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🐍%20DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🧪%20FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 </p>
 
@@ -115,12 +103,15 @@ const yamini = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OOP-6A5ACD?style=flat-square" />
-<img src="https://img.shields.io/badge/Collections-4682B4?style=flat-square" />
+<img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Exception%20Handling-708090?style=flat-square" />
+<img src="https://img.shields.io/badge/Collections-4682B4?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Exception_Handling-708090?style=for-the-badge" />
 
 </p>
 
@@ -134,15 +125,15 @@ const yamini = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🐍%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🧠%20TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/👁️%20OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
 </p>
 
@@ -150,19 +141,19 @@ const yamini = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/📊%20DATA%20ANALYSIS-20B2AA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Analysis-20B2AA?style=for-the-badge" />
 
 <br>
 
-<img src="https://img.shields.io/badge/📈%20STATISTICS-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🗄️%20SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/📊%20POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </p>
 
@@ -170,27 +161,27 @@ const yamini = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Supervised%20Learning-00A896?style=flat-square" />
+<img src="https://img.shields.io/badge/Supervised_Learning-00A896?style=for-the-badge" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Unsupervised%20Learning-7B2CBF?style=flat-square" />
+<img src="https://img.shields.io/badge/Unsupervised_Learning-7B2CBF?style=for-the-badge" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-E91E63?style=flat-square" />
+<img src="https://img.shields.io/badge/Deep_Learning-E91E63?style=for-the-badge" />
 
 <br>
 
-<img src="https://img.shields.io/badge/CNN-1565C0?style=flat-square" />
+<img src="https://img.shields.io/badge/CNN-1565C0?style=for-the-badge" />
 
 <br>
 
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Generative%20AI-4CAF50?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative_AI-4CAF50?style=for-the-badge" />
 
 </p>
 
@@ -202,23 +193,11 @@ const yamini = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/🐬%20MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🐘%20POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🍃%20MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/☁️%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/🐳%20DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 </p>
 
@@ -228,19 +207,19 @@ const yamini = {
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/💻%20INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/📝%20VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🔀%20GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
 
@@ -271,6 +250,12 @@ const yamini = {
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=menneniyaminirao&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/menneniyaminirao/menneniyaminirao/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
